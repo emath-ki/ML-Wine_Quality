@@ -1,6 +1,6 @@
 # Wine Quality Classification: Red & White Wines
 
-    Overview: This project demonstrates a machine learning pipeline for classifying wine quality using a publicly available wine dataset. It is intended for **practice and skill demonstration purposes**, showcasing techniques in data preprocessing, model building, evaluation, and visualization.
+> **Overview:** This project demonstrates a machine learning pipeline for classifying wine quality using a publicly available wine dataset. It is intended for **practice and skill demonstration purposes**, showcasing techniques in data preprocessing, model building, evaluation, and visualization.
 
 > **Disclaimer:** This dataset is for practice and has limitations. Models are suitable for internal analytics and process optimization but do **not** meet competitive thresholds for mission-critical automation or direct consumer decision-making without additional safeguards.
 ---
